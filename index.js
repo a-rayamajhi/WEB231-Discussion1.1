@@ -4,7 +4,7 @@
 
     Goal: Code talks about difference between comparison and string interpolation.
 
-    Note: Code contains ES6 syntax
+    Code contains ES6 syntax
     Code Contain multiple errors
  */
 
